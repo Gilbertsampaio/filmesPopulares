@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Aplicação lista os filmes mais populares do momento, consumindo a API do [TheMovieDB](https://developers.themoviedb.org/), tela inicial mostrar uma listagem dos filmes mais populares, os mais populares sendo exibidos no topo da lista. Cada filme possui uma página especifica com mais detalhes.
+Listagem dos filmes bem melhor avaliados, destacando o filme com pontuação maior, onde todos os filmes levam a uma nova página para exibição dos detalhes do filme, com possibilidade em todas as páginas de pesquisar por título.
 ### Requisitos
 
 - Solicitar KEY da API em [TheMovieDB](https://www.themoviedb.org/settings/api)
