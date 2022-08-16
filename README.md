@@ -1,34 +1,16 @@
-# Aplicação ReactJS para consumir dados de filmes da API The Movie Databese
+# Aplicação de teste em ReactJS para consumo de API de filmes do The Movie
 
 ## Sobre o projeto
 
 Aplicação lista os filmes mais populares do momento, consumindo a API do [TheMovieDB](https://developers.themoviedb.org/), tela inicial mostrar uma listagem dos filmes mais populares, os mais populares sendo exibidos no topo da lista. Cada filme possui uma página especifica com mais detalhes.
-
-## 🚀 Tecnologias
-
-Tecnologias usadas
-
-- [ReactJS](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React Router DOM](https://reacttraining.com/react-router/)
-- [Redux](https://redux.js.org/)
-- [Redux Saga](https://redux-saga.js.org/)
-- [Styled Components](https://styled-components.com/)
-- [Axios](https://github.com/axios/axios)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [EditorConfig](https://editorconfig.org/)
-
-## 💻 Getting started
-
 ### Requisitos
 
-- Solicitar KEY da API em [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction)
+- Solicitar KEY da API em [TheMovieDB](https://www.themoviedb.org/settings/api)
 
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/charleseduardome/TheMovieDB.git
+$ git clone https://github.com/Gilbertsampaio/filmesPopulares.git
 ```
 
 **Siga os passos abaixo**
@@ -47,11 +29,3 @@ $ cp .env.example .env
 # Start
 $ yarn start
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Made with 💜 by Charles Eduardo 👋 [See my linkedin](https://www.linkedin.com/in/charleseduardome//)
