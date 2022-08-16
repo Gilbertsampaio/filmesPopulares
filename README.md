@@ -22,9 +22,7 @@ $ yarn
 # Faça uma cópia do arquivo '.env.example' para '.env'
 $ cp .env.example .env
 
-# Verifique se o arquivo .env possui a variável REACT_APP_API_URL com a url da API
-# Insira sua Key na variável REACT_APP_API_KEY
-# Caso deseje alterar o tamanho da imagem, altera o valor da  variável REACT_APP_BASE_URL_IMAGEM
+# Insira a chave KEY na variável REACT_APP_API_KEY
 
 # Start
 $ yarn start
